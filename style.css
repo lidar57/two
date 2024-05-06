@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.iiq{
+    border: 5px double black;
+    width: 1050px;
+}
+.iq{
+    display: inline-block;
+    width: 200px;
+}
+
+.qi{
+    height: auto;
+}
+
+.qii{
+    height: 130px;
+}
+
+footer{
+    margin: 50px 0px 0px 150px;
+}
+
+a{
+    text-decoration: none;
+    border: 3px dotted greenyellow;
+    text-align:center;
+    padding: 5px;
+    border-radius: 50px;
+    background-color: green;
+    color: yellow;
+}
